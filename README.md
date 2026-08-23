@@ -1,6 +1,6 @@
 # Jim
 
-I'm Jim. In Brazil, people often seem to prefer James, but Jim is the name I prefer.
+I'm Jim Lyke. In Brazil, people often seem to prefer James, but Jim is the name I prefer.
 
 I'm interested in the nature and structure of computation, the ways wires interconnect, and electronics packaging. I advocate for novel concepts of modularity—including plug-and-play spacecraft and, at the farthest reaches of imagination, technologies of programmable matter.
 
