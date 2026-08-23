@@ -1,4 +1,10 @@
-# jclyke
+# Jim
+
+I'm Jim. In Brazil, people often seem to prefer James, but Jim is the name I prefer.
+
+I'm interested in the nature and structure of computation, the ways wires interconnect, and electronics packaging. I advocate for novel concepts of modularity—including plug-and-play spacecraft and, at the farthest reaches of imagination, technologies of programmable matter.
+
+I also enjoy studying guitar, languages, coffee, 3D printing, and puzzles. I have a mixed relationship with travel: I want neither too much nor too little.
 
 I build small, practical software projects and use this profile as a chronological record of what I make, what I try, and what I learn—often with the assistance of AI coding tools.
 
@@ -33,6 +39,14 @@ A mobile-first tool for selecting and repeating precise passages from YouTube vi
 - PHP and SQLite session history
 - Designed through repeated hands-on use on a phone
 
+## Earlier projects
+
+I lean toward inclusion rather than pretending that only polished or recent work is worth preserving. Earlier projects include:
+
+- [vibe01](https://github.com/jclyke/vibe01) — an offline, single-file tool that turns a folder of photos into a Word document.
+- [OneTabScrape](https://github.com/jclyke/OneTabScrape) — converts a OneTab browser export into Checkvist-ready Markdown.
+- [youTubeCheckvist](https://github.com/jclyke/youTubeCheckvist) — converts YouTube Takeout watch history into day-by-day Checkvist journal entries.
+
 ## Working method
 
 My general approach is:
@@ -49,4 +63,3 @@ My general approach is:
 ## About this profile
 
 This page is a living index. I expect the methodology, project descriptions, and selection of public work to evolve as I continue experimenting.
-
