@@ -1,4 +1,4 @@
-# Jim
+# Jim Lyke
 
 I'm Jim Lyke. In Brazil, people often seem to prefer James, but Jim is the name I prefer.
 
